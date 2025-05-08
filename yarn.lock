@@ -5727,6 +5727,11 @@ react-native-is-edge-to-edge@1.1.7, react-native-is-edge-to-edge@^1.1.6:
   resolved "https://registry.yarnpkg.com/react-native-is-edge-to-edge/-/react-native-is-edge-to-edge-1.1.7.tgz#28947688f9fafd584e73a4f935ea9603bd9b1939"
   integrity sha512-EH6i7E8epJGIcu7KpfXYXiV2JFIYITtq+rVS8uEb+92naMRBdxhTuS8Wn2Q7j9sqyO0B+Xbaaf9VdipIAmGW4w==
 
+react-native-mmkv@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-mmkv/-/react-native-mmkv-3.2.0.tgz#460723eb23b9cc92c65b0416eae9874a6ddf5b82"
+  integrity sha512-9y7K//1MaU46TFrXkyU0wT5VGk9Y2FDLFV6NPl+z3jTbm2G7SC1UIxneF6CfhSmBX5CfKze9SO7kwDuRx7flpQ==
+
 react-native-reanimated@~3.17.4:
   version "3.17.5"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-3.17.5.tgz#09ebe3c9e3379c5c0c588b7ab30c131ea29b60f0"
@@ -6979,3 +6984,8 @@ zeego@^3.0.6:
     "@radix-ui/react-context-menu" "^2.0.1"
     "@radix-ui/react-dropdown-menu" "^2.0.1"
     sf-symbols-typescript "^2.0.0"
+
+zustand@^5.0.4:
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/zustand/-/zustand-5.0.4.tgz#33af161f1e337854ccd8b711ef9e92545d6ae53f"
+  integrity sha512-39VFTN5InDtMd28ZhjLyuTnlytDr9HfwO512Ai4I8ZABCoyAj4F1+sr7sD1jP/+p7k77Iko0Pb5NhgBFDCX0kQ==
